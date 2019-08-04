@@ -1,0 +1,1 @@
+docker container run -it -p 8888:7000 -v E:\knowledge\deep-learning\Deep_Learning_A_Z\:/opt/notebooks/ garganshulgarg/deep-learning
